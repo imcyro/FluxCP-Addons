@@ -1,2 +1,2 @@
-# FluxCP-Addons
-Addons for FluxpCP
+# FluxCP Addons
+Addons for FluxpCP.
